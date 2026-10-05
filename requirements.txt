@@ -3,7 +3,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-dill
 catboost
-xgboost==2.1.4
-flask
+xgboost
+Flask
